@@ -1,7 +1,7 @@
 # Welcome bro, [AnonRoz-Team](https://anon-roz.tech) here 🙌
 
-![Yutixcode](https://komarev.com/ghpvc/?username=Yutixcode&label=Views&color=blue&style=plastic)
-[![GitHub Yutixcode](https://img.shields.io/github/followers/Yutixcode?label=follow&style=social)](https://github.com/Yutixcode)
+![Anonroz-Team](https://komarev.com/ghpvc/?username=AnonRoz-Team&label=Views&color=blue&style=plastic)
+[![GitHub Yutixcode](https://img.shields.io/github/followers/AnonRoz-Team?label=follow&style=social)](https://github.com/AnonRoz-Team)
 
 Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam meraih cita-cita untuk menjadi Hokage.
 
