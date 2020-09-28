@@ -1,11 +1,11 @@
-# Welcome bruh, [Yutixcode](http://yutixcode.xyz) here 🙌
+# Welcome bro, [AnonRoz-Team](https://anon-roz.tech) here 🙌
 
 ![Yutixcode](https://komarev.com/ghpvc/?username=Yutixcode&label=Views&color=blue&style=plastic)
 [![GitHub Yutixcode](https://img.shields.io/github/followers/Yutixcode?label=follow&style=social)](https://github.com/Yutixcode)
 
 Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam meraih cita-cita untuk menjadi Hokage.
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yutixcode&theme=light&hide_langs_below=1" />](https://github.com/Yutixcode)
+[<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonRoz-Team&theme=light&hide_langs_below=1" />](https://github.com/AnonRoz-Team)
 <!-- Buset liat raw, pasti bang jago nih -->
 
 ### Get in Touch 🔎
@@ -17,5 +17,5 @@ Hai, saya adalah orang yang ceria, hiperaktif, kikuk, dan sangat ambisius dalam 
 ----------
 
 <div align="center">
-    <h3>Aku noob dan aku bangga 😈</h3>
+    <h3>Learn 😙</h3>
 </div>
