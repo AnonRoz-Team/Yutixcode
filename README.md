@@ -10,7 +10,7 @@ Hai cok
 ### Get in Touch 🔎
 - [<img alt="ARZ Instagram" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> **Follow**](https://instagram.com)<br />
 - [<img alt="ARZ Facebook" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> **Add friend**](https://www.facebook.com)<br />
-- [<img alt="ARZ Youtube" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> **Subscribe**](https://www.youtube.com)<br /> 
+- [<img alt="ARZ Youtube" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> **Subscribe**](https://youtube.com/channel/UCzKSsCY0REHpaW-29LakahQ)<br /> 
 <!-- Mau nyontek yaaaa? Awokawok dasar anjing ya kamu -->
 
 ----------
