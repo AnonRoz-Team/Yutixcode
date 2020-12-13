@@ -1,4 +1,4 @@
-# Welcome bro, [AnonRoz-Team](https://anon-roz.tech) here 🙌
+# Logger ngalir bos, [AnonRoz-Team](https://anon-roz.tech) here 🙌
 
 ![Anonroz-Team](https://komarev.com/ghpvc/?username=AnonRoz-Team&label=Views&color=blue&style=plastic)
 [![GitHub AnonRoz-Team](https://img.shields.io/github/followers/AnonRoz-Team?label=follow&style=social)](https://github.com/AnonRoz-Team)
